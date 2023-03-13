@@ -6,13 +6,14 @@
 ### Studying in this moment:
  - Java 
  - Flutter
-
+ - Spring-boot
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizFelip123}/count.svg" /></p> 
 <br>
 </div>
+
 
 <div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizFelip123&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelip123&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> </div> 
  <div align="center">
